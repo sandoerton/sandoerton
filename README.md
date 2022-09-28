@@ -7,7 +7,11 @@ Sou estudante de Desenvolvimento Web Full Stack na Trybe.<br>
 Estou em busca da minha primeira oportunidade<br>
 para me desenvolver junto com a empresa.<br>
 Abaixo segue algumas das diversas linguagens, ferramentas e bibliotecas,<br>
-que tive o prazer de conhecer enquanto estudante:
+que tive o prazer de conhecer enquanto estudante:<br>
+Unix/Bash, Git e GitHub, HTML, CSS, JavaScript, ES6, HOFs,<br>
+React, Jest, APIs, Docker, Node, Express, MySQL, Sequelize,<br>
+POO, TypeScript, MongoDB, Python, dentre outras,<br>
+com o objetivo de tornar-me um desenvolvedor FullStack ou BackEnd.
 </p>
 
 <h3 align="left">Linguagens e ferramentas:</h3>
