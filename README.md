@@ -52,4 +52,4 @@ com o objetivo de tornar-me um desenvolvedor FullStack ou BackEnd.
 <p align="left">
 <a href="https://linkedin.com/in/sandoerton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandoerton" height="30" width="40" /></a>
 <a href="mailto:sandoerton@gmail.com" target="blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" alt="sandoerton" height="30" width="80" /></a>
-<a href="https://wa.me/558191864021" target="blank"><img align="center" src="https://static.whatsapp.net/rsrc.php/ym/r/36B424nhiL4.svg" alt="sandoerton" height="30" width="130" /></a></p>
+<a href="https://abrir.link/ZpVZg" target="blank"><img align="center" src="https://static.whatsapp.net/rsrc.php/ym/r/36B424nhiL4.svg" alt="sandoerton" height="30" width="130" /></a></p>
