@@ -3,15 +3,12 @@
 
 <h3 align="left">Sobre mim:</h3>
 <p align="left">
-Sou estudante de Desenvolvimento Web Full Stack na Trybe.<br>
-Estou em busca da minha primeira oportunidade<br>
-para me desenvolver junto com a empresa.<br>
-Abaixo segue algumas das diversas linguagens, ferramentas e bibliotecas,<br>
-que tive o prazer de conhecer enquanto estudante:<br>
+Sou desenvolvedor Web Full Stack Jr, formado pela Trybe.<br><br>
+Estou em transição de carreira e busco uma oportunidade para me desenvolver e colocar em prática todo o meu conhecimento adquirido.<br><br>
+Abaixo segue algumas das diversas linguagens, ferramentas e bibliotecas, que tenho conhecimento:<br><br>
 Unix/Bash, Git e GitHub, HTML, CSS, JavaScript, ES6, HOFs,<br>
 React, Jest, APIs, Docker, Node, Express, MySQL, Sequelize,<br>
-POO, TypeScript, MongoDB, Python, dentre outras,<br>
-com o objetivo de tornar-me um desenvolvedor FullStack ou BackEnd.
+POO, TypeScript, MongoDB, Python, dentre outras.
 </p>
 
 <h3 align="left">Linguagens e ferramentas:</h3>
